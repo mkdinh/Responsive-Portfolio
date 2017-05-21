@@ -333,7 +333,7 @@ textarea[type=comment]{
 	
 	body{font-size:100%;}
 	h1{font-size:200%;font-weight:bold;}
-	h2{font-size:160%;text-align:left;}
+	h2{font-size:140%;text-align:left;}
 	#nav{width:100%;}
 	#header{width:100%; }
 	#name{font-size:200%; width:100% padding:15px;float:none;}
@@ -346,6 +346,6 @@ textarea[type=comment]{
 	.imagewrapper{width:100%;height: 160px; margin-left:auto;margin-bottom:20px; }
 	.label{ width:100%; margin-bottom:10px; }
 	img.index{width:40%;}
-	#content p{font-size:130%;}
+	#content p{font-size:110%;}
 	#side{float:none;width:100%; margin:20px 0px 20px 0; padding:20px;box-sizing:border-box;display:inline-block;}
 }
